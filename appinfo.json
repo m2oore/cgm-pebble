@@ -1,5 +1,5 @@
 {
-    "uuid": "a4e66a45-f30d-4a13-9f0f-59343c6b23a9",
+    "uuid": "2d378611-81cb-4d4f-bbfd-6b1012c34d4c",
     "capabilities": [
         "configurable"
     ],
@@ -62,8 +62,8 @@
         ]
     },
     "versionCode": 3,
-    "shortName": "CGM",
-    "longName": "CGM",
+    "shortName": "CGM-slot-2",
+    "longName": "CGM slot 2",
     "watchapp": {
         "watchface": true
     },
