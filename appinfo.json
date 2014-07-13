@@ -61,12 +61,12 @@
             }
         ]
     },
-    "versionCode": 3,
+    "versionCode": 5,
     "shortName": "CGM-slot-2",
     "longName": "CGM slot 2",
     "watchapp": {
         "watchface": true
     },
     "companyName": "Nightscout contributors",
-    "versionLabel": "2.0.1"
+    "versionLabel": "2.1.1"
 }
